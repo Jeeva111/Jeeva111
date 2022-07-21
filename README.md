@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeeva111
-- 👀 I’m interested in React Native, Python, Unity
-- 🌱 I’m currently learning Ionic 😟
+- 👀 I’m interested in Flutter 😍
+- 🌱 Have some experience in ✡️ React Native, React JS, Ionic, PHP and mySQL
 - 💞️ I’m looking to collaborate on Game Developer Unity
 
 <!---
